@@ -1,5 +1,3 @@
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class Main {
     public static int fib1(int n) {
