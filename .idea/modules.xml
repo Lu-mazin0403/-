@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/interface design.iml" filepath="$PROJECT_DIR$/interface design.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/fibonacci number.iml" filepath="$PROJECT_DIR$/fibonacci number.iml" />
+>>>>>>> 31eab8ddcc58f71cce65d70600f29d69d5df41b8
     </modules>
   </component>
 </project>
